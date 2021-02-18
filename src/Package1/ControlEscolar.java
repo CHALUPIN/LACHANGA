@@ -11,8 +11,9 @@ public class ControlEscolar extends Usuario {
     
     public String CantidadAlumnos;
         
+    public String RegistrodeCal;
     
-    public String matriculas;
-        
+    public String constancias;
     
+    public String CanlendarioEx;
 }
