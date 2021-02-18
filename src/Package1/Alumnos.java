@@ -2,7 +2,7 @@ package Package1;
 
 import java.util.*;
 
-//cambios hechos por kike
+//cambios hechos______ por kike
 
 
 /**
@@ -16,4 +16,20 @@ public class Alumnos extends Usuario {
     public Alumnos() {
     }
 
+    /**
+     * 
+     */
+     private String Nombre;
+    
+    /**
+     * 
+     */
+    private String Sexo;
+    /**
+     * 
+     */
+    private String Edad;
+    
+    
+    
 }
