@@ -15,5 +15,11 @@ public class Mantenimiento extends Usuario {
      */
     public Mantenimiento() {
     }
+    
+    public String cantdeherramientas;
+    
+    public String cantsalones;
+    
+    public String manodeobra;
 
 }
