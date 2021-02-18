@@ -2,15 +2,17 @@ package Package1;
 
 import java.util.*;
 
-/**
- * 
- */
+//mi pito con unna flor 
 public class ControlEscolar extends Usuario {
 
-    /**
-     * Default constructor
-     */
+    
     public ControlEscolar() {
     }
-
+    
+    public String CantidadAlumnos;
+        
+    
+    public String matriculas;
+        
+    
 }
