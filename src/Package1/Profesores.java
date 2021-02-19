@@ -12,5 +12,7 @@ public class Profesores extends Usuario {
      */
     public Profesores() {
     }
-
+public String cantdeNumeroDePension;
+public String cantdeListas;
+public String cantdeLibros;
 }
